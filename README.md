@@ -1,5 +1,5 @@
 ### Hi there 👋
-* :school:  Second year Ph.D. student of [Institute of Automation](http://english.ia.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/), supervised by Prof. [Zhaoxiang Zhang](https://zhaoxiangzhang.net/)
+* :school:  Third year Ph.D. student of [Institute of Automation](http://english.ia.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/), supervised by Prof. [Zhaoxiang Zhang](https://zhaoxiangzhang.net/)
 * 💻  Interested in image understanding, label efficient learning, and unsupervised representation learning
 * :email:  Contact me at [wanghaochen2022@ia.ac.cn](mailto:wanghaochen2022@ia.ac.cn)
 
